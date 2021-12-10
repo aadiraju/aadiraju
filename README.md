@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there, I'm Abhineeth! 👋
+
+I'm a programmer and web developer and love working on projects that make a difference! Reach out to me if you want to work together on an ✨interesting✨ project :)
+
+### Reach me on
+[LinkedIn](https://www.linkedin.com/in/aadiraju/)🌟[Behance](https://www.behance.net/abhineeadiraju)
 
 <!--
 **aadiraju/aadiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
