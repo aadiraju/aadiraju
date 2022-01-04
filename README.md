@@ -1,6 +1,6 @@
 ## Hello there, I'm Abhineeth! 👋
 
-I'm a programmer and web developer and love working on projects that make a difference! Reach out to me if you want to work together on an ✨interesting✨ project :)
+I'm a programmer and web developer and love working on projects that make a difference! Reach out to me if you want to work together on ✨interesting✨ projects :)
 
 ### Reach me on
 [LinkedIn](https://www.linkedin.com/in/aadiraju/)🌟[Behance](https://www.behance.net/abhineeadiraju)
